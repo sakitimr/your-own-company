@@ -1,6 +1,6 @@
 # 你自己的公司 · 多智能体协同办公平台
 
-> 基于大语言模型的 CEO 视角多 Agent 协作系统，三天内团队从零构建。
+> 基于大语言模型的 CEO 视角多 Agent 协作系统。
 
 🌐 **在线体验**：[https://your-own-company.streamlit.app](https://your-own-company.streamlit.app)（需配置 API Key）
 
